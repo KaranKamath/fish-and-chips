@@ -18,7 +18,7 @@ css = fish.toAmerican(css);
 
 npm test
 
-## Contrbuting
+## Contributing
 
 General styleguide:
 smallcase for filenames  
