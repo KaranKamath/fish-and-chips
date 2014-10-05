@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaranKamath/Pretend-Node-Package.git"
+    "url": "https://github.com/KaranKamath/fish-and-chips.git"
   },
   "keywords": [
     "English",
@@ -22,13 +22,13 @@
   "licenses": [
       {
         "type": "MIT",
-        "url":"https://github.com/KaranKamath/Pretend-Node-Package/blob/master/fish-and-chips/license.txt"
+        "url":"https://github.com/KaranKamath/fish-and-chips/blob/master/fish-and-chips/license.txt"
       }
   ],
   "bugs": {
-    "url": "https://github.com/KaranKamath/Pretend-Node-Package/issues"
+    "url": "https://github.com/KaranKamath/fish-and-chips/issues"
   },
-  "homepage": "https://github.com/KaranKamath/Pretend-Node-Package",
+  "homepage": "https://github.com/KaranKamath/fish-and-chips",
   "devDependencies": {
     "chai": "^1.9.2",
     "mocha": "^1.21.4"
