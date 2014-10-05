@@ -34,6 +34,10 @@
     "mocha": "^1.21.4"
   },
   "scripts": {
-      "test": "make test"
-  }
+    "test": "make test"
+  },
+  "contributors": [{
+    "name": "Jishnu Mohan",
+    "email": "mohanjishnu@gmail.com"
+  }]
 }
