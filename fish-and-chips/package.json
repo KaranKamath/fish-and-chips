@@ -1,0 +1,27 @@
+{
+  "name": "fish-and-chips",
+  "version": "1.0.0",
+  "description": "A module that converts British English in HTML and CSS to American English.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaranKamath/Pretend-Node-Package.git"
+  },
+  "keywords": [
+    "English",
+    "British",
+    "American",
+    "HTML",
+    "CSS",
+    "Preprocessor"
+  ],
+  "author": "Karan Kamath <karankamath26@gmail.com> (http://karankamath.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaranKamath/Pretend-Node-Package/issues"
+  },
+  "homepage": "https://github.com/KaranKamath/Pretend-Node-Package"
+}
