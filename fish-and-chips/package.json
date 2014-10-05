@@ -1,6 +1,6 @@
 {
   "name": "fish-and-chips",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A module that converts British English in HTML and CSS to American English.",
   "main": "index.js",
   "scripts": {
