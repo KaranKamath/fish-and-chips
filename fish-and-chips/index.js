@@ -6,7 +6,8 @@
  */
 module.exports = {
     toAmerican: function(doc) {
-        return String(dox)
+        return String(doc)
             .replace('centre', 'center')
-            .replace('colour', 'color')
+            .replace('colour', 'color');
     }
+}
