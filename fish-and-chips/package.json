@@ -19,7 +19,12 @@
     "Preprocessor"
   ],
   "author": "Karan Kamath <karankamath26@gmail.com> (http://karankamath.com/)",
-  "license": "ISC",
+  "licenses": [
+      {
+        "type": "MIT",
+        "url":"https://github.com/KaranKamath/Pretend-Node-Package/fish-and-chips/license.txt"
+      }
+  ],
   "bugs": {
     "url": "https://github.com/KaranKamath/Pretend-Node-Package/issues"
   },
