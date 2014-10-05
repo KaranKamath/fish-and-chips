@@ -10,3 +10,4 @@ module.exports = {
             .replace('centre', 'center')
             .replace('colour', 'color')
     }
+}
