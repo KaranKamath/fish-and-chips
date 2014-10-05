@@ -1,4 +1,4 @@
-Fish-and-chips
+fish-and-chips
 ============
 
 A small library providing the conversion of British English words to their American English counterparts for correct usage in HTML and CSS
@@ -11,20 +11,20 @@ A small library providing the conversion of British English words to their Ameri
 
 var fish = require('fish-and-chips')
 
-var css = 'text-align: centre;',
+var css = 'text-align: centre;',  
 css = fish.toAmerican(css);
 
 ## Tests
 
 npm test
 
-## Contrbuting
+## Contributing
 
 General styleguide:
-smallcase for filenames
-camelCase for methods and variables
-PascalCase for Class Names
+smallcase for filenames  
+camelCase for methods and variables    
+PascalCase for Class Names  
 
-Add unit tests for any new or changed functionality
-Lint and test your code.
+Add unit tests for any new or changed functionality  
+Lint and test your code.  
 
