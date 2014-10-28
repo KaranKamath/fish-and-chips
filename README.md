@@ -5,18 +5,24 @@ A small library providing the conversion of British English words to their Ameri
 
 ## Installation
 
+```
   npm install fish-and-chips --save
+```
 
 ## Usage
 
+```js
 var fish = require('fish-and-chips')
 
 var css = 'text-align: centre;',  
 css = fish.toAmerican(css);
+```
 
 ## Tests
 
+```
 npm test
+```
 
 ## Contributing
 
