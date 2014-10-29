@@ -7,6 +7,7 @@
 module.exports = {
     toAmerican: function(doc) {
         return String(doc)
+            .replace('capitalise', 'capitalize')
             .replace('centre', 'center')
             .replace('colour', 'color');
     }
