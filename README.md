@@ -3,6 +3,8 @@ fish-and-chips
 
 A small library providing the conversion of British English words to their American English counterparts for correct usage in HTML and CSS
 
+https://www.npmjs.com/package/fish-and-chips
+
 ## Installation
 
 ```
